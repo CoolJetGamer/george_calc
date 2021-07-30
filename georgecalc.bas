@@ -1,5 +1,5 @@
 start:
-Cls
+Cls 'for clearing the screen after the user chooses to do another calculation
 Print "GEORGECALC"
 PRINT "Made by George (CoolJetGamer)
 Print "Choose an operation"
